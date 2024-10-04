@@ -174,7 +174,15 @@
 <a href="https://uk.wikipedia.org/wiki/%D0%9D%D0%B5%D0%BF%D1%82%D1%83%D0%BD_(%D0%BF%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D0%B0)">Більше про Нептун</a>
         </main>
         <footer>
-        <p>Сподіваюся вам сподобався сайт. Дякую за перегляд!</p>
+        <p>Сподіваюся вам сподобався сайт. Дякую за перегляд! Знизу посилання на всі розділи сайту.</p>
+             <a href="#Mercury">Меркурій</a>
+            <a href="#Venus">Венера</a>
+            <a href="#Earth">Земля</a>
+            <a href="#Mars">Марс</a>
+            <a href="#Jupiter">Юпітер</a>
+            <a href="#Saturn">Сатурн</a>
+            <a href="#Uranus">Уран</a>
+            <a href="#Neptune">Нептун</a>
         </footer>
     </body>
     </html>
